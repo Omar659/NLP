@@ -1,5 +1,5 @@
 # NLP
-Natural Language Process problem analized from the course in NLP at "La Sapienza Università di Roma"
+Natural Language Process problem analysed from the course in NLP at "La Sapienza University of Rome"
 
 ## NLP_course
 * **nlp2022-bonus1**. This folder contains a project in which you have to recognise what kind of sentence you are talking about.
